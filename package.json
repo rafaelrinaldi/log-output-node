@@ -1,0 +1,27 @@
+{
+  "name": "log-output-node",
+  "version": "1.0.0",
+  "description": "Node.js adapter for `log-output`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelrinaldi/log-output-node.git"
+  },
+  "keywords": [
+    "output",
+    "node",
+    "adapter",
+    "stream",
+    "writable",
+    "log"
+  ],
+  "author": "Rafael Rinaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelrinaldi/log-output-node/issues"
+  },
+  "homepage": "https://github.com/rafaelrinaldi/log-output-node#readme"
+}
