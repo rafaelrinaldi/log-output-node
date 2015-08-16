@@ -1,6 +1,8 @@
 'use strict';
 
 module.exports = function(stream) {
+  stream = stream || process.stdout;
+
   return {
     resetLine: function() {
       stream.clearLine();
